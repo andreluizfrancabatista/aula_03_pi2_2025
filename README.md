@@ -16,7 +16,7 @@ O objetivo é praticar a implementação de rotas, manipulação de dados em mem
 * Os dados dos produtos devem ser armazenados em **memória** (um array).
 * Cada produto deve seguir o schema:
 
-  ```json
+  ```
   {
     "id": número,
     "nome": string,
